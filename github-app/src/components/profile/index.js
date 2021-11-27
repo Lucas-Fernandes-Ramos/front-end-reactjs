@@ -8,11 +8,9 @@ function Profile() {
         <S.WrapperImage src="https://avatars.githubusercontent.com/u/49686035?v=4" 
         alt="Avatar user"/>
         
-        
-        
-       
+      
             <div>
-            <h1>Lucas Fernandes Ramos</h1>
+            <h1 >Lucas Fernandes Ramos</h1>
             <h3>user-name</h3>        
             <span>Lucas</span>
             </div>

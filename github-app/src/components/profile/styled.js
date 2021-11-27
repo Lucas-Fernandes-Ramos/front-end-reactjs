@@ -5,6 +5,8 @@ export const Wrapper = styled.div`
   align-items: flex-start;
   background-color: aqua;
   margin: 10px;
+  width: 100%;
+  height: 50vh;
 `;
 export const WrapperImage = styled.img`
   display: flex;
@@ -26,7 +28,10 @@ export const WrapperInfoUser = styled.div`
 export const WrapperStatusCount = styled.div`
   display: flex;
   align-items: center;
-  background-color: bisque;
+  
+  background-color: red;
+  padding: 10px;
+  
 `;
 
 
